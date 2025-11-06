@@ -14,5 +14,10 @@ Tracking and counting persons
 > pip install torch torchvision torchaudio
 
 ```
+### ไฟล์ที่ต้องเเก้ path
+```
+start_main 2 จุด
+start_main_bat 1 จุด
 
+```
 
