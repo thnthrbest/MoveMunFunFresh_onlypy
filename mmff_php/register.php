@@ -16,5 +16,6 @@
     else
     {
         $sql = "INSERT INTO user (username,password,id,classroom) VALUES ('$username','$password','$id','$classroom')";
+        $result = mysqli_query($db, $sql);
     }
 ?>
